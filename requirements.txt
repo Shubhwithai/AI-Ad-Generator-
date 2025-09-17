@@ -1,6 +1,6 @@
-streamlit>=1.28.0
-browser-use>=1.0.0
-google-generativeai>=0.3.0
-aiofiles>=23.0.0
-Pillow>=10.0.0
-asyncio-compat>=0.1.0
+streamlit
+browser-use
+google-generativeai
+aiofiles
+Pillow
+asyncio-compat
